@@ -3,7 +3,7 @@
 /*regole header*/
 #img-pattern {
    
-    background-color:rgb(57, 153, 255) ;
+    
 }
 
 /*regole contenuto principale*/
@@ -16,7 +16,9 @@
     color: rgb(69, 207, 249);
 }
 
-
+.testo-normale{
+    width: 100%;
+}
 
 .tabella-articolo {
     width: 100%;
@@ -37,4 +39,9 @@
 .tabella-articolo tr:nth-child(odd) {
 background-color: rgb(137, 186, 255);
 }
+
+table {
+  border-collapse: collapse;
+}
+
 /*regole footer*/
