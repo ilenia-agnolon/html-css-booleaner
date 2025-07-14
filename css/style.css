@@ -16,4 +16,25 @@
     color: rgb(69, 207, 249);
 }
 
+
+
+.tabella-articolo {
+    width: 100%;
+    
+}
+
+.tabella-articolo th {
+    background-color: rgb(50, 187, 255);
+    color: white;
+    text-align: left;
+    
+}
+
+.tabella-articolo td{
+ height: 60px;
+}
+
+.tabella-articolo tr:nth-child(odd) {
+background-color: rgb(137, 186, 255);
+}
 /*regole footer*/
