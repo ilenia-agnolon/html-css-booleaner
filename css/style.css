@@ -1,7 +1,11 @@
-/*regole generali di pagina/
+/*regole generali di pagina*/
 
-/*regole header/
+/*regole header*/
+#img-pattern {
+    background-image: url(../img/pattern.png);
+    background-color:rgb(57, 153, 255) ;
+}
 
-/*regole contenuto principale/
+/*regole contenuto principale*/
 
-/*regole footer/
+/*regole footer*/
