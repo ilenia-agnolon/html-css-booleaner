@@ -12,6 +12,10 @@
     color: rgb(119, 119, 119);
 }
 
+.scritta-piccola {
+    font-size: 70%;
+}
+
 #scritta-azzurra {
     color: rgb(69, 207, 249);
 }
