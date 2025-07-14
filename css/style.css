@@ -2,10 +2,18 @@
 
 /*regole header*/
 #img-pattern {
-    background-image: url(../img/pattern.png);
+   
     background-color:rgb(57, 153, 255) ;
 }
 
 /*regole contenuto principale*/
+
+.scritta-grigia {
+    color: rgb(119, 119, 119);
+}
+
+#scritta-azzurra {
+    color: rgb(69, 207, 249);
+}
 
 /*regole footer*/
