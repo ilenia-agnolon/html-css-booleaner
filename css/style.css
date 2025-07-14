@@ -49,3 +49,18 @@ table {
 }
 
 /*regole footer*/
+
+.contenitore-immagine {
+    position: relative;
+    width: 100%;
+    display: block;
+}
+
+.testo-immagine {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    font-size: 20px;
+    z-index: 2;
+}
